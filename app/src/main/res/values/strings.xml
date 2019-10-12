@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pain Level</string>
+    <string name="pain_level">What\'s your pain level in a scale from 1 to 10?</string>
+</resources>
