@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-PainLevelGame is a game that has an incorporated seekBar tool to test your mood of pain.
+PainLevelGame is a game that has an incorporated seekBar tool to test the user's imaginary mood of pain.
 
 # Getting Started
 
